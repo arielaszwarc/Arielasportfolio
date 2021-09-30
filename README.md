@@ -11,6 +11,4 @@ This website presents 3 tabs (About me, Portfolio, Contact) allowing the user to
 * [CSS]
 * [Bootstrap](https://getbootstrap.com/)
 
-## Author
 
-Fernando Jimenez-Diaz
